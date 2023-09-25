@@ -1,0 +1,73 @@
+@import url("https://fonts.googleapis.com/css2?family=Syncopate:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+.logo {
+  width: 10px;
+  height: 11px;
+  flex-shrink: 0;
+  color: lightgray 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 50px 0 0 50px;
+}
+
+.text {
+  color: #97aad7;
+  font-family: "Syncopate", sans-serif;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 164.8%;
+  letter-spacing: 2.9px;
+  text-transform: capitalize;
+  width: 877px;
+  height: 271px;
+  flex-shrink: 0;
+  padding: 50px;
+}
+
+.frame10 {
+  background-color: rgb(29, 31, 31);
+  height: 100vh;
+  width: 100vw;
+  background-image: url(public/tuxpi.com\ 1.png);
+  display: flex;
+  flex-direction: column;
+  background-repeat: no-repeat;
+  background-size: cover;
+  gap: 80px;
+}
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px;
+  gap: 80px;
+}
+
+.g127 {
+  color: #636161;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  font-family: "Montserrat", sans-serif;
+  gap: 10px;
+}
+
+.g126 {
+  display: flex;
+  color: aliceblue;
+  gap: 10px;
+  height: 3vh;
+}
+.cody {
+  display: flex;
+  font-family: "Montserrat", sans-serif;
+  gap: 5px;
+}
